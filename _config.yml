@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seungmin Lee / Curriculum Vitae"
+title                    : "Seungmin Lee / Profile"
 title_separator          : "-"
 name                     : &name "Seungmin"
 description              : &description "Ph.D. Candidate in Applied Economics and Management at Cornell University"
