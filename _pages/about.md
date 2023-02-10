@@ -1,5 +1,3 @@
-(2023-2-10) Currently under construction.
-
 ---
 permalink: /
 title: "Temporary Title"
