@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+(2023-2-10): This page is currently under construction. This note will be removed once the page is ready.
+
 I am a Ph.D. candidate in Applied Economics and Management at Charles H. Dyson School, Cornell University. My research interest is food security, public policy and welfare in developing countries.
 
 A data-driven personal website
