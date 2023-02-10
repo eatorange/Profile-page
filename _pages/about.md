@@ -1,10 +1,6 @@
-(2023-2-8) This page is currently under construction.
-
-I am a Ph.D. candidate in Applied Economics and Management at Charles H. Dyson School, Cornell University. My research interest is food security, public policy and welfare in developing countries.
-
 ---
 permalink: /
-title: "Do I need to change this?"
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
