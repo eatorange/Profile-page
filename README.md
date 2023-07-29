@@ -1,6 +1,6 @@
 (2023-2-8) This page is currently under construction.
 
-I am a Ph.D. candidate in Applied Economics and Management at Charles H. Dyson School, Cornell University. My research interest is food security, public policy and welfare in developing countries.
+I am a Ph.D. candidate in Applied Economics and Management at Charles H. Dyson School, Cornell University. My research interest is food security, public policy and welfare economics in developing countries.
 
 
 
